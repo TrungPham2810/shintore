@@ -1,0 +1,26 @@
+.card-header {
+    background: #f3d379;
+}
+
+input.checkbox_child, .check_all, .checkbox_wrapper {
+    margin-right: 7px;
+    transform: scale(1.3);
+}
+
+.checkbox_rule {
+    padding: 15px;
+    font-size: 16px;
+    color: #000;
+    font-weight: 700;
+}
+
+.rule_module {
+    color: #000;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.card-title.rule_child {
+    font-size: 15px;
+    color: #000;
+}

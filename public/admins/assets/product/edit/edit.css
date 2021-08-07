@@ -1,0 +1,10 @@
+.main_image_product {
+    height: 300px;
+    width: 300px;
+}
+
+.gallery_image_product {
+    margin: 15px;
+    height: 150px;
+    width: 150px;
+}
